@@ -1,0 +1,18 @@
+In question no.2 of this assignment
+
+First I have saved the data in data.json file
+Then wrote the code in question2.js file
+where I started by making the user choose which function to run
+
+
+Function1(detailsOfPokemon):for taking out the details of pokemon I have compared the input name with the names present in data,
+then printed out all the details available.
+For data in objects like prev_evolution and next_evolution I have created seperate functions to print those
+(ie:getPreviousEvolution, getNextEvolution).
+
+
+Function2(previousPokemonEvolution): To take out pokemon which have the input name in their next evolution in data.
+I have smilply searched the input name in next_evolution data in json and then saved the names of pokemon 
+which have that name in their next evolution in an array and then finally print it in alert box.
+
+Function3(weaknessOfPokemon):To take out which all pokemon have that weakness, I have searched the weakness array data of every pokemon and then saved the name of pokemon in an array if they had the that weakness. 

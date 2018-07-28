@@ -1,0 +1,3 @@
+In function 1 I had not change the function it self but have introduced let keyword instead of var and used ` back yick fir strings, along with this I have given default values to function so that it does not crash. Along with this I have changed for in loop to for of loop for more simplicity and readable code.
+
+In function2 I have chande var to let for block scoping and introduced default values to the parameter in function.And I have not changed other things bcause the old things were required here for this sorting operation
